@@ -23,8 +23,12 @@ header p {
 
 /* class selectors */
 
-.main {
+section{
     display:flex;
+}
+
+.row {
+
 }
 
 .card {
@@ -42,8 +46,3 @@ header p {
     text-align: center;
 }
 
-.grid {
-    display: grid;
-    width: 100%;
-    grid-template-columns: repeat(6, 1fr);
-}
