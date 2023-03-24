@@ -1,0 +1,15 @@
+:root {
+--title-color: darkgreen;
+
+}
+* {
+    background-color: blue;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+
+header {
+    color: var(--title-color);
+}
